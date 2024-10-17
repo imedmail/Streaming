@@ -129,6 +129,8 @@ https://new.cache-stream.workers.dev/stream/UCOGBA-T3jCfOPey73FzsxCw/live.m3u8
 http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:25 CUID="74" tvg-id="ZARROK.KUR" name="ZARROK" tvg-name="ZARROK" group-title="Anime" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-language="Arabic" tvg-country="KUR",0251 Anime - ZARROK
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:25 CUID="74" tvg-id="RockyandBullwinkleandFriends" name="Rocky and Bullwinkle and Friends" tvg-name="Rocky and Bullwinkle and Friends" group-title="Anime" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-language="Arabic" tvg-country="USA",0251 Anime - Rocky and Bullwinkle and Friends
+https://www.youtube.com/watch?v=LYNVCm48w6g
 #EXTINF:30 CUID="75" tvg-id="BAHRAININTERNATIONAL.BH" name="BAHRAIN INTERNATIONAL" tvg-name="BAHRAIN INTERNATIONAL" group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" tvg-language="English" tvg-country="BH",0303 Movies - BAHRAIN INTERNATIONAL
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF: CUID="76" tvg-id="DUBAIONE.AE" name="DUBAI ONE" tvg-name="DUBAI ONE" group-title="Movies" tvg-logo="https://i.imgur.com/Dj16oKL.png" tvg-language="Arabic" tvg-country="AE",0304 Movies - DUBAI ONE
