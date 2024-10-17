@@ -109,8 +109,6 @@ https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index
 https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
 #EXTINF:60 CUID="64" tvg-id="RoyaKidsOriginals.SY" name="Roya Kids Originals" tvg-name="Roya Kids Originals" group-title="Anime" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-language="Arabic" tvg-country="SY",020E Anime - Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-#EXTINF:0 CUID="65" tvg-id="SAKAKER.SY" name="SAKAKER" tvg-name="SAKAKER" group-title="Anime" tvg-logo="" tvg-language="Arabic" tvg-country="SY",020E Anime - SAKAKER
-http://80.79.4.232:8000/play/a00b
 #EXTINF:32 CUID="66" tvg-id="TAHA.LB" name="TAHA" tvg-name="TAHA" group-title="Anime" tvg-logo="https://i.imgur.com/hdsrxvX.png" tvg-language="Arabic" tvg-country="LB",0210 Anime - TAHA
 https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8
 #EXTINF:32 CUID="67" tvg-id="TAHA.LB" name="TAHA" tvg-name="TAHA" group-title="Anime" tvg-logo="https://tahatv.com/images/menue%20bar/77_46.png" tvg-language="Arabic" tvg-country="LB",0210 Anime - TAHA
@@ -155,12 +153,6 @@ http://154.58.202.185:8000/play/a048
 http://154.54.220.67:34780/play/a01q
 #EXTINF:0 CUID="86" tvg-id="MBCMAX.SA" name="MBC MAX" tvg-name="MBC MAX" group-title="Movies" tvg-logo="https://logo.iptveditor.com/mbcmax.png" tvg-language="English" tvg-country="SA",0305 Movies - MBC MAX
 http://154.58.202.185:8000/play/a04a
-#EXTINF:60 CUID="87" tvg-id="Movies.SA" name="Movies" tvg-name="Movies" group-title="Movies" tvg-logo="https://bit.ly/3xw0DYl" tvg-language="English" tvg-country="SA",0305 Movies - Movies
-https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:60 CUID="88" tvg-id="MoviesAction.SA" name="Movies Action" tvg-name="Movies Action" group-title="Movies" tvg-logo="https://bit.ly/3N3ztkh" tvg-language="English" tvg-country="SA",0305 Movies - Movies Action
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:60 CUID="89" tvg-id="MoviesTHRILLER.SA" name="Movies THRILLER" tvg-name="Movies THRILLER" group-title="Movies" tvg-logo="https://bit.ly/3Mtikjq" tvg-language="English" tvg-country="SA",0305 Movies - Movies THRILLER
-https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:60 CUID="90" tvg-id="Kuwait2.KW" name="Kuwait 2" tvg-name="Kuwait TV 2" group-title="Movies" tvg-logo="https://i.imgur.com/hB57mNh.png" tvg-language="Arabic" tvg-country="KW",0309 Movies - Kuwait 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:25 CUID="91" tvg-id="AJIAL.PS" name="AJIAL" tvg-name="AJIAL" group-title="Movies" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-language="Arabic" tvg-country="PS",030C Movies - AJIAL
@@ -259,8 +251,6 @@ https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/m
 http://95.216.180.111:1935/live/35/index.m3u8
 #EXTINF:60 CUID="138" tvg-id="ALHURRAIRAQ.IQ" name="AL HURRA IRAQ" tvg-name="AL HURRA IRAQ" group-title="News" tvg-logo="https://bit.ly/3qG1r7B" tvg-language="Arabic" tvg-country="IQ",0511 News - AL HURRA IRAQ
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:27 CUID="139" tvg-id="SKYNEWSARABIA.Int" name="SKY NEWS ARABIA" tvg-name="SKY NEWS ARABIA" group-title="News" tvg-logo="https://bit.ly/39e3Wuy" tvg-language="Arabic" tvg-country="Int",051A News - SKY NEWS ARABIA
-https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:27 CUID="140" tvg-id="SKYNEWSARABIA.Int" name="SKY NEWS ARABIA" tvg-name="SKY NEWS ARABIA" group-title="News" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgVQl9JLkECmPNG291Dc74YDSOCNhHGvhowduhUiYCz5jhyVtI-DNKQDJZqdu8H40g2kV2vrVxSdFZ_mZtgcvh0iK-qoZbnChJg8Qc6MM0W1GhdSRilLbfamJ6-LW6UmhHdhAhQt2eh7eF2HMtl7RV-.png" tvg-language="Arabic" tvg-country="Int",051A News - SKY NEWS ARABIA
 https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
 #EXTINF:30 CUID="141" tvg-id="SKYNEWSARABIA.Int" name="SKY NEWS ARABIA" tvg-name="SKY NEWS ARABIA" group-title="News" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-language="Arabic" tvg-country="Int",051A News - SKY NEWS ARABIA
@@ -331,14 +321,8 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist.m3u8
 #EXTINF:86394 CUID="177" tvg-id="ASHARQDOCUMENTARY.SA" name="ASHARQ DOCUMENTARY" tvg-name="ASHARQ DOCUMENTARY" group-title="Documentary" tvg-logo="https://i.imgur.com/8tqK42D.png" tvg-language="Arabic" tvg-country="SA",0605 Documentary - ASHARQ DOCUMENTARY
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:60 CUID="178" tvg-id="BBCTopGear.SA" name="BBC Top Gear" tvg-name="BBC Top Gear" group-title="Documentary" tvg-logo="https://bit.ly/3PnWMGo" tvg-language="English" tvg-country="SA",0605 Documentary - BBC Top Gear
-https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-#EXTINF:1200 CUID="179" tvg-id="RoyaDocumentaries.SY" name="Roya Documentaries" tvg-name="Roya Documentaries" group-title="Documentary" tvg-logo="https://bit.ly/3ydKOJy" tvg-language="Arabic" tvg-country="SY",060E Documentary - Roya Documentaries
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 #EXTINF:1192 CUID="180" tvg-id="العالمالكبير.SY" name="العالم الكبير" tvg-name="العالم الكبير" group-title="Documentary" tvg-logo="https://bit.ly/3ydKOJy" tvg-language="Arabic" tvg-country="SY",060E Documentary - العالم الكبير
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist.m3u8
-#EXTINF:1195 CUID="181" tvg-id="RedBull.US" name="RedBull" tvg-name="RedBull" group-title="Documentary" tvg-logo="https://bit.ly/3ydKOJy" tvg-language="Arabic" tvg-country="US",061D Documentary - RedBull
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/redbull/playlist.m3u8
 #EXTINF:1800 CUID="182" tvg-id="DWARABIA.DE" name="DW ARABIA" tvg-name="DW ARABIA" group-title="Documentary" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-language="Arabic" tvg-country="DE",063C Documentary - DW ARABIA
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:60 CUID="183" tvg-id="ALARABIYABUSINESS.SA" name="AL ARABIYA BUSINESS" tvg-name="AL ARABIYA BUSINESS" group-title="Business" tvg-logo="https://bit.ly/3QKcegN" tvg-language="Arabic" tvg-country="SA",0705 Business - AL ARABIYA BUSINESS
