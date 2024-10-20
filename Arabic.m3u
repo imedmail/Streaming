@@ -233,8 +233,6 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
 #EXTINF:30 CUID="141" tvg-id="SKYNEWSARABIA.Int" name="SKY NEWS ARABIA" tvg-name="SKY NEWS ARABIA" group-title="News" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-language="Arabic" tvg-country="Int",051A News - SKY NEWS ARABIA
 https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
-#EXTINF:27 CUID="142" tvg-id="SKYNEWSARABIAPORTRAIT.Int" name="SKY NEWS ARABIA PORTRAIT" tvg-name="SKY NEWS ARABIA PORTRAIT" group-title="News" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-language="Arabic" tvg-country="Int",051A News - SKY NEWS ARABIA PORTRAIT
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:30 CUID="143" tvg-id="ALHIWAR.GB" name="AL HIWAR" tvg-name="AL HIWAR TV" group-title="News" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-language="Arabic" tvg-country="GB",051E News - AL HIWAR
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
 #EXTINF:30 CUID="144" tvg-id="ALHIWAR.GB" name="AL HIWAR" tvg-name="AL HIWAR TV" group-title="News" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-language="Arabic" tvg-country="GB",051E News - AL HIWAR
