@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 CUID="1298" tvg-id="MyZen.US" name="MyZen" tvg-name="MyZen" group-title="[FR] FRANCE" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-language="" tvg-country="US",361E MyZen
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:0 CUID="1268" tvg-id="A12.FR" name="A12" tvg-name="A12" group-title="[FR] FRANCE" tvg-logo="https://i.imgur.com/JgnjgvF.png" tvg-language="" tvg-country="FR",3621 A12
