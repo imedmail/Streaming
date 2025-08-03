@@ -1,5 +1,4 @@
-#EXTM3U			CUID		tvg-id" name="name		tvg name		group-title		tvg-logo		tvg-language		country		Name
-http
+#EXTM3U
 #EXTINF:0 CUID="1" tvg-id="ELFADJERDRAMA.DZ" name="EL FADJER DRAMA" tvg-name="EL FADJER DRAMA" group-title="[الجزائر]" tvg-logo="" tvg-language="Arabic" tvg-country="DZ",0101 EL FADJER DRAMA
 http://154.58.202.131:8000/play/a03l
 #EXTINF:0 CUID="2" tvg-id="ELHEDDAF.DZ" name="EL HEDDAF" tvg-name="EL HEDDAF" group-title="[الجزائر]" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ElHeddafTV.png" tvg-language="Arabic" tvg-country="DZ",0101 EL HEDDAF
