@@ -445,6 +445,8 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 CUID="223" tvg-id="" name="BBC NEWS" tvg-name="BBC NEWS" group-title="Foreign News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png" tvg-language="" tvg-country="GB",0B1D BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF: CUID="1438" tvg-id="CNBCAFRICA.GB" name="CNBC AFRICA" tvg-name="CNBC AFRICA" group-title="Foreign News" tvg-logo="https://i.imgur.com/BnNYzWI.png" tvg-language="" tvg-country="GB",0B1D CNBC AFRICA
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:60 CUID="224" tvg-id="GBNews.GB" name="GB News" tvg-name="GB News" group-title="Foreign News" tvg-logo="" tvg-language="English" tvg-country="GB",0B1D GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:120 CUID="225" tvg-id="GBNews.GB" name="GB News" tvg-name="GB News" group-title="Foreign News" tvg-logo="" tvg-language="English" tvg-country="GB",0B1D GB News
@@ -487,8 +489,6 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:60 CUID="244" tvg-id="FoxNewsNow.US" name="Fox News Now" tvg-name="Fox News Now" group-title="Foreign News" tvg-logo="https://i.imgur.com/qEpPVUR.png" tvg-language="English" tvg-country="US",0B1E Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:80 CUID="245" tvg-id="FoxWeather.US" name="Fox Weather" tvg-name="Fox Weather" group-title="Foreign News" tvg-logo="https://i.imgur.com/exm0htD.png" tvg-language="English" tvg-country="US",0B1E Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:600 CUID="246" tvg-id="HLN.US" name="HLN" tvg-name="HLN" group-title="Foreign News" tvg-logo="https://i.imgur.com/yspEfw4.png" tvg-language="English" tvg-country="US",0B1E HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:60 CUID="247" tvg-id="KCCI-TVNewsDesMoinesIA.US" name="KCCI-TV News Des Moines IA" tvg-name="KCCI-TV News Des Moines IA" group-title="Foreign News" tvg-logo="https://i.imgur.com/6xjshQj.png" tvg-language="English" tvg-country="US",0B1E KCCI-TV News Des Moines IA
@@ -525,6 +525,8 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:60 CUID="263" tvg-id="Newsy.US" name="Newsy" tvg-name="Newsy" group-title="Foreign News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png" tvg-language="English" tvg-country="US",0B1E Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:60 CUID="1866" tvg-id="RevryNews.US" name="Revry News" tvg-name="Revry News" group-title="Foreign News" tvg-logo="https://i.imgur.com/lKMYCkb.png" tvg-language="English" tvg-country="US",0B1E Revry News
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:0 CUID="264" tvg-id="FRANCE24.FR" name="FRANCE 24" tvg-name="FRANCE 24" group-title="Foreign News" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-language="French" tvg-country="FR",0B21 FRANCE 24
 http://81.94.196.204/tsstreamer/France24_HD.ts
 #EXTINF:28 CUID="265" tvg-id="FRANCE24.FR" name="FRANCE 24" tvg-name="FRANCE 24" group-title="Foreign News" tvg-logo="https://i.imgur.com/NnhxgBz.png" tvg-language="French" tvg-country="FR",0B21 FRANCE 24
@@ -559,6 +561,8 @@ https://livear.cgtn.com/500a/prog_index.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 CUID="280" tvg-id="TVBRICSEnglish.IN" name="TV BRICS English" tvg-name="TV BRICS English" group-title="Foreign News" tvg-logo="https://i.imgur.com/8rKNuS6.png" tvg-language="" tvg-country="IN",0B4A TV BRICS English
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:0 CUID="4222" tvg-id="ClassCNBC.IT" name="Class CNBC" tvg-name="Class CNBC" group-title="Foreign News" tvg-logo="https://i.imgur.com/3Ei5VHa.png" tvg-language="" tvg-country="IT",0B4E Class CNBC
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 #EXTINF:0 CUID="281" tvg-id="TVCNEWS.NG" name="TVC NEWS" tvg-name="TVC NEWS" group-title="Foreign News" tvg-logo="https://i.imgur.com/jaSq18B.png" tvg-language="" tvg-country="NG",0B5D TVC NEWS
 https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
 #EXTINF:0 CUID="282" tvg-id="TVCNEWS.NG" name="TVC NEWS" tvg-name="TVC NEWS" group-title="Foreign News" tvg-logo="https://i.imgur.com/jaSq18B.png" tvg-language="" tvg-country="NG",0B5D TVC NEWS
@@ -605,6 +609,10 @@ http://89.254.128.5:22280/cartoon_network/index.m3u8
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:0 CUID="303" tvg-id="CARTOONNETWORKES.GB" name="CARTOON NETWORK ES" tvg-name="CARTOON NETWORK ES" group-title="Anime (EN)" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" tvg-language="SPANISH" tvg-country="GB",0C1D CARTOON NETWORK ES
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:24 CUID="1441" tvg-id="EmanChannel.GB" name="Eman Channel" tvg-name="Eman Channel" group-title="Anime (EN)" tvg-logo="" tvg-language="" tvg-country="GB",0C1D Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:0 CUID="1442" tvg-id="EnglishClub.GB" name="English Club" tvg-name="English Club" group-title="Anime (EN)" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/English%20club%20HD.png" tvg-language="" tvg-country="GB",0C1D English Club
+http://iptv.prosto.tv:7000/ch206/video.m3u8
 #EXTINF:60 CUID="304" tvg-id="ZooMoo.NZ" name="Zoo Moo" tvg-name="Zoo Moo" group-title="Anime (EN)" tvg-logo="" tvg-language="" tvg-country="NZ",0C1F Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:60 CUID="305" tvg-id="ZooMoo.NZ" name="Zoo Moo" tvg-name="Zoo Moo" group-title="Anime (EN)" tvg-logo="" tvg-language="" tvg-country="NZ",0C1F Zoo Moo
@@ -621,6 +629,8 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:30 CUID="311" tvg-id="AghapyKids" name="Aghapy Kids" tvg-name="Aghapy Kids" group-title="Anime (EN)" tvg-logo="https://i.imgur.com/8ariztD.png" tvg-language="" tvg-country="",0CFF Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:11 CUID="7002" tvg-id="EnglishClub" name="English Club" tvg-name="English Club" group-title="Anime (EN)" tvg-logo="" tvg-language="" tvg-country="",0CFF English Club
+http://149.100.11.244:8001/play/a06j/index.m3u8
 #EXTINF:0 CUID="312" tvg-id="Action1.SA" name="Action 1" tvg-name="Action 1" group-title="Movies (EN)" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" tvg-language="Arabic" tvg-country="SA",0D05 Action 1
 https://airmaxtv.online/ssiptv2024/ssiptv2025/470.m3u8
 #EXTINF:0 CUID="313" tvg-id="COMEDY1.SA" name="COMEDY 1" tvg-name="COMEDY 1" group-title="Movies (EN)" tvg-logo="https://airmaxtv.online:443/images/1d29765055c8f6edb43465d30a9ac003.png" tvg-language="" tvg-country="SA",0D05 COMEDY 1
@@ -875,6 +885,8 @@ https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discover
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discovery/discovery%20science/Discovery_Science.m3u8
 #EXTINF:59 CUID="438" tvg-id="DISCOVERYTURBO.GB" name="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" group-title="Other Documentary" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" tvg-language="" tvg-country="GB",101D DISCOVERY TURBO
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discovery/discovery%20turbo/Discovery_Turbo.m3u8
+#EXTINF:0 CUID="1445" tvg-id="HomesUndertheHammer.GB" name="Homes Under the Hammer" tvg-name="Homes Under the Hammer" group-title="Other Documentary" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/HomesUndertheHammer.jpg" tvg-language="" tvg-country="GB",101D Homes Under the Hammer
+https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:20 CUID="439" tvg-id="NATIONALGEOGRAPHICWILD.GB" name="NATIONAL GEOGRAPHIC WILD" tvg-name="NATIONAL GEOGRAPHIC WILD" group-title="Other Documentary" tvg-logo="" tvg-language="" tvg-country="GB",101D NATIONAL GEOGRAPHIC WILD
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:0 CUID="440" tvg-id="SkyNature.GB" name="Sky Nature" tvg-name="Sky Nature" group-title="Other Documentary" tvg-logo="https://i.imgur.com/lWKYSpI.png" tvg-language="Italian" tvg-country="GB",101D Sky Nature
@@ -909,8 +921,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:0 CUID="456" tvg-id="RedBull.US" name="RedBull" tvg-name="RedBull" group-title="Other Documentary" tvg-logo="https://img.redbull.com/images/w_220/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" tvg-language="English" tvg-country="US",101E RedBull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:0 CUID="457" tvg-id="Weathernation.US" name="Weathernation" tvg-name="Weathernation" group-title="Other Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" tvg-language="" tvg-country="US",101E Weathernation
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:0 CUID="1373" tvg-id="WellBeing.US" name="WellBeing" tvg-name="WellBeing TV" group-title="Other Documentary" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-language="English" tvg-country="US",101E WellBeing
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:0 CUID="482" tvg-id="WildEarth.US" name="Wild Earth" tvg-name="Wild Earth" group-title="Other Documentary" tvg-logo="" tvg-language="" tvg-country="US",101E Wild Earth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
 #EXTINF:0 CUID="483" tvg-id="WildEarth.US" name="Wild Earth" tvg-name="Wild Earth" group-title="Other Documentary" tvg-logo="" tvg-language="" tvg-country="US",101E Wild Earth
@@ -2367,16 +2379,6 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:0 CUID="1186" tvg-id="" name="ABU DHABI SPORTS 2" tvg-name="ABU DHABI SPORTS 2" group-title="SPORTS" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" tvg-language="Arabic" tvg-country="AE",3104 ABU DHABI SPORTS 2
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:0 CUID="1187" tvg-id="DUBAIRACING1.AE" name="DUBAI RACING 1" tvg-name="DUBAI RACING 1" group-title="SPORTS" tvg-logo="https://i.imgur.com/BpcV8jS.png" tvg-language="Arabic" tvg-country="AE",3104 DUBAI RACING 1
-https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="1188" tvg-id="DUBAIRACING2.AE" name="DUBAI RACING 2" tvg-name="DUBAI RACING 2" group-title="SPORTS" tvg-logo="" tvg-language="Arabic" tvg-country="AE",3104 DUBAI RACING 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 CUID="1189" tvg-id="DUBAIRACING2.AE" name="DUBAI RACING 2" tvg-name="DUBAI RACING 2" group-title="SPORTS" tvg-logo="https://i.imgur.com/H2TTn7t.png" tvg-language="Arabic" tvg-country="AE",3104 DUBAI RACING 2
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:0 CUID="1190" tvg-id="DUBAIRACING3.AE" name="DUBAI RACING 3" tvg-name="DUBAI RACING 3" group-title="SPORTS" tvg-logo="https://i.imgur.com/BpcV8jS.png" tvg-language="Arabic" tvg-country="AE",3104 DUBAI RACING 3
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:0 CUID="1191" tvg-id="DUBAIRACING3.AE" name="DUBAI RACING 3" tvg-name="DUBAI RACING 3" group-title="SPORTS" tvg-logo="https://i.imgur.com/Vg4fxmc.png" tvg-language="Arabic" tvg-country="AE",3104 DUBAI RACING 3
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 #EXTINF:0 CUID="1192" tvg-id="DUBAISPORTS1.AE" name="DUBAI SPORTS 1" tvg-name="DUBAI SPORTS 1" group-title="SPORTS" tvg-logo="https://i.imgur.com/Poxw8lG.png" tvg-language="Arabic" tvg-country="AE",3104 DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:60 CUID="1193" tvg-id="DUBAISPORTS1.AE" name="DUBAI SPORTS 1" tvg-name="DUBAI SPORTS 1" group-title="SPORTS" tvg-logo="https://i.imgur.com/Poxw8lG.png" tvg-language="Arabic" tvg-country="AE",3104 DUBAI SPORTS 1
